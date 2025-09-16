@@ -1,4 +1,4 @@
-*body{
+*{
     margin: 0px;
     padding:0px;
 }
@@ -362,4 +362,5 @@ h3 {
 .besti a:hover {
     transform: rotate3d(0, 0, 1, 360deg) scale(1.06);
 }
+
 
